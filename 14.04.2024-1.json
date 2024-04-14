@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Clarke",
+    "age": 24,
+    "address": {
+        "street": "Montoya Passage",
+        "city": "New Cesar",
+        "state": "Georgia",
+        "zip": "54735"
+    },
+    "contact": {
+        "phone": "524-435-6688x44798",
+        "servicePhone": "800120537"
+    },
+    "birthday": "2001-08-05",
+    "ip": "108.16.152.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Food present line. Ball up media start able shoulder decision guess. Approach owner box you write.",
+        "bio": "Even speak product available where relate. Approach he cultural bad happen. Strategy tend street glass quite big get young."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
