@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Rodriguez",
+    "age": 5,
+    "address": {
+        "street": "Ryan Court",
+        "city": "West Brandon",
+        "state": "Minnesota",
+        "zip": "26396"
+    },
+    "contact": {
+        "phone": "676.676.0161",
+        "servicePhone": "800115036"
+    },
+    "birthday": "2020-28-02",
+    "ip": "177.43.28.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Month green public. Value sound sea alone. Five try perform prevent religious.\nPlant dinner your local then time. Assume admit fine room leave so.\nVote gas care will thank.",
+        "bio": "Fast pick price wish. Major onto certain world cut order entire mention.\nLate summer fish most."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
