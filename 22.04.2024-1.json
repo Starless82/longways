@@ -1,0 +1,25 @@
+{
+    "name": "Holly Hughes",
+    "age": 98,
+    "address": {
+        "street": "Callahan Row",
+        "city": "Mcgeebury",
+        "state": "Maine",
+        "zip": "55943"
+    },
+    "contact": {
+        "phone": "+1-410-224-5864x6130",
+        "servicePhone": "800078564"
+    },
+    "birthday": "1927-11-06",
+    "ip": "183.180.79.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Sure spend among night manager north fight. Community recognize notice impact color open. Make within former develop management water rule quality.\nHand among expert or.",
+        "bio": "Size peace alone true measure impact make. Improve but through set would culture issue again. Early fire citizen fall sometimes hit."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
