@@ -1,0 +1,25 @@
+{
+    "name": "Jon Franco",
+    "age": 61,
+    "address": {
+        "street": "Michael Oval",
+        "city": "Bernardside",
+        "state": "Tennessee",
+        "zip": "26424"
+    },
+    "contact": {
+        "phone": "+1-290-304-9706x60832",
+        "servicePhone": "800953400"
+    },
+    "birthday": "1964-02-06",
+    "ip": "72.112.53.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Either soon study over bring. Close science build because enough. Level best worry federal while where.",
+        "bio": "Responsibility product attorney two season. Card may style last.\nEconomy explain customer rock. Project many beautiful effect authority really worry."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
