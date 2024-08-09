@@ -1,0 +1,25 @@
+{
+    "name": "James Watson",
+    "age": 22,
+    "address": {
+        "street": "Day Summit",
+        "city": "Guerrerochester",
+        "state": "Oklahoma",
+        "zip": "67993"
+    },
+    "contact": {
+        "phone": "540.814.9422x03857",
+        "servicePhone": "800726468"
+    },
+    "birthday": "2003-22-07",
+    "ip": "212.51.19.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Specific ground necessary leave fly yet. Soon public green under all listen do. Seek skin that break each.",
+        "bio": "Sign opportunity song investment. Drive there look born. Space music a TV.\nLow television will similar. Run nice toward actually form now find. Store husband listen."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
