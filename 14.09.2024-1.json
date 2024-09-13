@@ -1,0 +1,25 @@
+{
+    "name": "Grace Proctor",
+    "age": 34,
+    "address": {
+        "street": "Bryan Stream",
+        "city": "West Barbara",
+        "state": "Michigan",
+        "zip": "95361"
+    },
+    "contact": {
+        "phone": "652.928.7186",
+        "servicePhone": "800537147"
+    },
+    "birthday": "1991-09-09",
+    "ip": "19.53.33.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Rather establish anyone at hard. Organization enter pressure PM.\nMorning TV picture investment.",
+        "bio": "Away color hold authority service. She assume none blue wide again operation send. Himself water test this."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
