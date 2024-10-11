@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Hanna",
+    "age": 39,
+    "address": {
+        "street": "Selena Plaza",
+        "city": "North Kimberlymouth",
+        "state": "Utah",
+        "zip": "45957"
+    },
+    "contact": {
+        "phone": "+1-241-919-7663x6217",
+        "servicePhone": "800455618"
+    },
+    "birthday": "1986-15-07",
+    "ip": "135.251.80.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Situation increase certainly measure. System recent learn big control commercial meeting.",
+        "bio": "Question whether far good word. Important throw bag authority executive himself. Occur skin record represent public go feel."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
