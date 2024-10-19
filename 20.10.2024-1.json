@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Harding",
+    "age": 103,
+    "address": {
+        "street": "Hayes Trafficway",
+        "city": "Joshuaville",
+        "state": "Delaware",
+        "zip": "50807"
+    },
+    "contact": {
+        "phone": "900.604.9605x0095",
+        "servicePhone": "800346235"
+    },
+    "birthday": "1922-14-10",
+    "ip": "161.4.198.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Fish move respond store option coach nature often. Compare wall remain talk on laugh. Walk set maintain woman line top situation.",
+        "bio": "Indicate interest least western.\nHowever cold civil kitchen. Situation important direction central big option build. Light onto leader under dinner charge."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
