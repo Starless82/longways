@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Levy",
+    "age": 11,
+    "address": {
+        "street": "Avila Crescent",
+        "city": "Barbarabury",
+        "state": "South Carolina",
+        "zip": "46092"
+    },
+    "contact": {
+        "phone": "981-252-2589",
+        "servicePhone": "800235875"
+    },
+    "birthday": "2014-28-02",
+    "ip": "76.189.40.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience investment want record be. Population force six.\nCustomer both artist. Most finally computer. Professional whole thus.\nOrder pass but of middle reason during. Body start oil quite.",
+        "bio": "Prepare already different serve no party. Reflect involve scene."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
