@@ -1,0 +1,25 @@
+{
+    "name": "Tony Hall",
+    "age": 12,
+    "address": {
+        "street": "Lori Overpass",
+        "city": "North Marissafort",
+        "state": "North Dakota",
+        "zip": "68276"
+    },
+    "contact": {
+        "phone": "(338)386-5740x9230",
+        "servicePhone": "800341712"
+    },
+    "birthday": "2013-08-08",
+    "ip": "54.62.90.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Sister two any south staff.\nNews remain coach office research around. Star one first home off step believe. Soldier almost long.",
+        "bio": "Herself nearly outside staff. Option during inside. Maintain concern drug help international national heavy. Him only themselves during oil site performance.\nSkill how end report race."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
