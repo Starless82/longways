@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Brown",
+    "age": 29,
+    "address": {
+        "street": "Cuevas Crescent",
+        "city": "Lake Emilyburgh",
+        "state": "Virginia",
+        "zip": "38976"
+    },
+    "contact": {
+        "phone": "(351)840-9323x1106",
+        "servicePhone": "800761801"
+    },
+    "birthday": "1996-08-05",
+    "ip": "57.214.237.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Yourself season term will. Animal give evening system people. Hit key state control investment.\nWeek couple appear class board measure or. Staff minute green have report technology.",
+        "bio": "Garden pull performance who first. Material including mission success quite. Within subject improve sea."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
