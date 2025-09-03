@@ -1,0 +1,25 @@
+{
+    "name": "Jill Gomez",
+    "age": 108,
+    "address": {
+        "street": "Jeffrey Ville",
+        "city": "Port Ray",
+        "state": "Washington",
+        "zip": "31896"
+    },
+    "contact": {
+        "phone": "+1-309-945-2142x828",
+        "servicePhone": "800162496"
+    },
+    "birthday": "1917-30-09",
+    "ip": "72.201.83.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Be between machine senior ready point. Follow as writer.\nOwn speak now test data no among her.\nHealth city top message. To tell run too. Democratic only one others.",
+        "bio": "Idea late trouble read machine these. Water film pretty professor must. Also heart several its weight oil."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
