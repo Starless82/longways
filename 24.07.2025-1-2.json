@@ -1,0 +1,25 @@
+{
+    "name": "Alexandria Hernandez",
+    "age": 27,
+    "address": {
+        "street": "Robert Roads",
+        "city": "New Robin",
+        "state": "New Jersey",
+        "zip": "58914"
+    },
+    "contact": {
+        "phone": "+1-457-257-3687",
+        "servicePhone": "800692312"
+    },
+    "birthday": "1998-12-11",
+    "ip": "166.232.95.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish nor if with. Number enough manage answer.\nSecurity strong upon. Determine most truth sell. Their quickly game soon picture.",
+        "bio": "Left should ready let open least Mr. Avoid information throw close away health. Second instead across base we."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
