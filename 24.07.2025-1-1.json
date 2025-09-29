@@ -1,0 +1,25 @@
+{
+    "name": "Albert Hall",
+    "age": 29,
+    "address": {
+        "street": "Rodney Glens",
+        "city": "South Melissa",
+        "state": "Missouri",
+        "zip": "61497"
+    },
+    "contact": {
+        "phone": "001-359-310-6377x6846",
+        "servicePhone": "800883797"
+    },
+    "birthday": "1996-27-07",
+    "ip": "27.113.196.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Least only usually course chair little. Professional although six trial admit special nearly. Culture concern team. Agreement summer effort edge.",
+        "bio": "Tax amount interesting great daughter. Mouth any surface. Who fish time enjoy.\nMake place customer late section sing. Reach fly so brother mind."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
