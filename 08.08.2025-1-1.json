@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Webster",
+    "age": 12,
+    "address": {
+        "street": "Kennedy Radial",
+        "city": "Scottside",
+        "state": "New Mexico",
+        "zip": "53000"
+    },
+    "contact": {
+        "phone": "+1-451-352-3570x5066",
+        "servicePhone": "800654244"
+    },
+    "birthday": "2013-10-08",
+    "ip": "9.57.253.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Along time most name. Who production dark economic. Its present read minute.\nEffort job argue necessary senior. Education yourself attack page surface nor. Whose else floor us allow feel.",
+        "bio": "Me drug plan successful true message. Night best my could when total form. Data official sport.\nTotal once final them."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
