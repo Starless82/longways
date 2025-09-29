@@ -1,0 +1,25 @@
+{
+    "name": "Luke Williamson",
+    "age": 55,
+    "address": {
+        "street": "Carlos Port",
+        "city": "North Jeffery",
+        "state": "Texas",
+        "zip": "42561"
+    },
+    "contact": {
+        "phone": "(260)343-6046x02650",
+        "servicePhone": "800640612"
+    },
+    "birthday": "1970-11-02",
+    "ip": "134.90.42.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Decision American teach special fear bag. Involve conference minute score project. Range your his.\nFor compare drug figure necessary cut. Option charge evidence want economy.",
+        "bio": "Soldier after new matter sometimes loss. Lay section recognize current what answer.\nOpen remember water purpose act material small. Business myself bank foreign dog build."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}

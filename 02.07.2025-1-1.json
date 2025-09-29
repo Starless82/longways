@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Arnold",
+    "age": 15,
+    "address": {
+        "street": "Stacey Gardens",
+        "city": "New Christopher",
+        "state": "Wisconsin",
+        "zip": "81690"
+    },
+    "contact": {
+        "phone": "+1-564-777-9293",
+        "servicePhone": "800809244"
+    },
+    "birthday": "2010-01-05",
+    "ip": "203.5.172.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Word boy buy. Night skill institution student fly language. Able win throw arrive politics serious bag move. Certainly image beat trade institution item marriage.",
+        "bio": "Care old she ten start girl. Quite receive production stage exactly order.\nIf art position. Section decade area when great decision nation. Some color under be during professional take."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
