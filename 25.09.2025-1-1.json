@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Garcia",
+    "age": 105,
+    "address": {
+        "street": "King Walk",
+        "city": "Gilesfurt",
+        "state": "South Dakota",
+        "zip": "50811"
+    },
+    "contact": {
+        "phone": "(426)831-7712",
+        "servicePhone": "800705428"
+    },
+    "birthday": "1920-05-07",
+    "ip": "83.124.65.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan building unit. Ready sister sit should effect.\nWorry stop argue various industry name interview. Walk begin change. Six result difficult begin list anything.",
+        "bio": "Himself officer Mrs issue. Reduce million food truth question talk where.\nHim they property car.\nWhen record air it hold yeah major. Mention good itself realize reduce table."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
