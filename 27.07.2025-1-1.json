@@ -1,0 +1,25 @@
+{
+    "name": "Mary Kramer",
+    "age": 20,
+    "address": {
+        "street": "Wood Green",
+        "city": "Moorestad",
+        "state": "Oregon",
+        "zip": "70730"
+    },
+    "contact": {
+        "phone": "+1-628-459-2289",
+        "servicePhone": "800162201"
+    },
+    "birthday": "2005-20-10",
+    "ip": "212.32.36.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Several poor near stuff stay. Enter cell moment size rise.\nFar character look lot upon artist war. Address direction brother available environment machine. Report will at page rise.",
+        "bio": "True serious town service draw my. Least attack Republican lead during. Each financial window clear stage throw."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
