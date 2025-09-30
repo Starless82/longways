@@ -1,0 +1,25 @@
+{
+    "name": "Ivan Mack",
+    "age": 97,
+    "address": {
+        "street": "Schmitt Pike",
+        "city": "Davisview",
+        "state": "Idaho",
+        "zip": "86152"
+    },
+    "contact": {
+        "phone": "657-713-5807x856",
+        "servicePhone": "800934645"
+    },
+    "birthday": "1928-06-07",
+    "ip": "211.144.7.57",
+    "foo": "bar",
+    "profile": {
+        "about": "National upon stage plan. Tonight range two lay through thus. Piece price consider build challenge glass.",
+        "bio": "Director game become call. Simply soon newspaper never research speak require.\nRule should develop option term education notice. Strategy him enter garden party early help behind."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}

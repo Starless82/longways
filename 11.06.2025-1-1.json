@@ -1,0 +1,25 @@
+{
+    "name": "Michael Cook",
+    "age": 86,
+    "address": {
+        "street": "Cody Way",
+        "city": "Markmouth",
+        "state": "Ohio",
+        "zip": "56884"
+    },
+    "contact": {
+        "phone": "290-380-9105x409",
+        "servicePhone": "800548439"
+    },
+    "birthday": "1939-22-06",
+    "ip": "172.56.75.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth nor daughter movement. Trial treatment though type certainly deal election.\nEarly him expert strong indicate possible computer. Especially employee ever door chance of writer.",
+        "bio": "Against go difference knowledge detail kid add. Yeah sound growth surface pull prove. Nice order turn pattern ask.\nOfficial practice explain season."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
