@@ -1,0 +1,25 @@
+{
+    "name": "Melody Todd",
+    "age": 85,
+    "address": {
+        "street": "Amber Loaf",
+        "city": "South Andrea",
+        "state": "Rhode Island",
+        "zip": "44514"
+    },
+    "contact": {
+        "phone": "783-638-1159x2242",
+        "servicePhone": "800768724"
+    },
+    "birthday": "1940-20-02",
+    "ip": "42.89.64.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Character put country natural station situation direction. House section degree true hair. Break baby good feel rest concern sit.",
+        "bio": "Part small billion machine. Best top work single.\nMajor behavior somebody around main TV believe. Area physical mother learn between young then vote. Show their let leg low perform skill."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
