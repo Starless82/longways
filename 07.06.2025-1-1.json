@@ -1,0 +1,25 @@
+{
+    "name": "Claire Jackson",
+    "age": 15,
+    "address": {
+        "street": "Calderon Summit",
+        "city": "Port Amyberg",
+        "state": "Maryland",
+        "zip": "89463"
+    },
+    "contact": {
+        "phone": "7104954455",
+        "servicePhone": "800456754"
+    },
+    "birthday": "2010-18-04",
+    "ip": "7.127.177.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Grow window drop he picture size. Official resource every long big.\nRemain yes maybe charge. Behind plan building discover word.",
+        "bio": "Black other hit travel.\nAdult audience mission cause perform continue. Range style situation exist. Rise impact ability else middle huge."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}

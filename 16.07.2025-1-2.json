@@ -1,0 +1,25 @@
+{
+    "name": "Alison Boyd",
+    "age": 63,
+    "address": {
+        "street": "Dunn Bypass",
+        "city": "North Michael",
+        "state": "Arkansas",
+        "zip": "36423"
+    },
+    "contact": {
+        "phone": "+1-839-396-5205x0276",
+        "servicePhone": "800002354"
+    },
+    "birthday": "1962-06-12",
+    "ip": "13.29.159.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Degree issue piece war become than project. Important movement speak myself.",
+        "bio": "Second color arm word operation. Recognize argue ok.\nEight push hope million. Including yet education increase worry."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

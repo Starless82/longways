@@ -1,0 +1,25 @@
+{
+    "name": "Steven Ray",
+    "age": 1,
+    "address": {
+        "street": "Steven Shore",
+        "city": "North Eric",
+        "state": "Alabama",
+        "zip": "91954"
+    },
+    "contact": {
+        "phone": "001-922-756-1144x42045",
+        "servicePhone": "800762941"
+    },
+    "birthday": "2024-21-03",
+    "ip": "109.182.177.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Yeah candidate watch would.\nItem pull nation act college. Turn hair whole. Edge respond condition specific.\nEnergy Congress look agree behavior. Value yet close public live purpose goal.",
+        "bio": "Matter four three memory decide important. Recognize medical edge product fire mind. Charge bar listen argue campaign."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}

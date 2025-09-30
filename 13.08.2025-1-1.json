@@ -1,0 +1,25 @@
+{
+    "name": "Katrina Strickland",
+    "age": 34,
+    "address": {
+        "street": "Bryant Lake",
+        "city": "Stevenmouth",
+        "state": "Colorado",
+        "zip": "11104"
+    },
+    "contact": {
+        "phone": "+1-767-392-2251x9337",
+        "servicePhone": "800106738"
+    },
+    "birthday": "1991-15-07",
+    "ip": "4.196.80.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought reality stage sit break bill. Sense hundred treatment blue fall take. Rock create guy stage.\nBody represent war. Return although experience hit enough.",
+        "bio": "Our sense cost amount risk. Let sound Mr part. Before could a forget opportunity teach.\nManager article tough such bar."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
