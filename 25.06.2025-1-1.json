@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Thompson",
+    "age": 81,
+    "address": {
+        "street": "Davenport Villages",
+        "city": "Denniston",
+        "state": "South Carolina",
+        "zip": "06813"
+    },
+    "contact": {
+        "phone": "(764)233-2303",
+        "servicePhone": "800843576"
+    },
+    "birthday": "1944-24-04",
+    "ip": "36.220.86.168",
+    "foo": "bar",
+    "profile": {
+        "about": "State them if. Pressure community lot walk site boy purpose. Put draw receive friend list fund gas.",
+        "bio": "Pass anyone eat space. Various full fine little. Season without minute argue.\nExample story ever candidate big suggest. Raise mouth theory grow war. Miss between deep son accept operation effort."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
