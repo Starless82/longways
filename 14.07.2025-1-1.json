@@ -1,0 +1,25 @@
+{
+    "name": "Casey Burton",
+    "age": 4,
+    "address": {
+        "street": "Michele Shore",
+        "city": "Angelaborough",
+        "state": "Nevada",
+        "zip": "41370"
+    },
+    "contact": {
+        "phone": "402.434.9367x802",
+        "servicePhone": "800140420"
+    },
+    "birthday": "2021-25-02",
+    "ip": "51.99.22.252",
+    "foo": "bar",
+    "profile": {
+        "about": "How laugh control hit detail national. Clear source amount.",
+        "bio": "Dinner mother think. Sister say better example something. Thought fall sound stuff adult power among rest."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
