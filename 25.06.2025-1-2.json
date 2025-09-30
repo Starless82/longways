@@ -1,0 +1,25 @@
+{
+    "name": "Megan Dickerson",
+    "age": 91,
+    "address": {
+        "street": "Amanda Wall",
+        "city": "Lake Donald",
+        "state": "West Virginia",
+        "zip": "76212"
+    },
+    "contact": {
+        "phone": "+1-716-246-2518x73181",
+        "servicePhone": "800315464"
+    },
+    "birthday": "1934-22-05",
+    "ip": "138.152.222.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Where positive attention will property travel support. Method mission without significant arm.",
+        "bio": "Assume service few girl president these. Government moment road back agent large."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}

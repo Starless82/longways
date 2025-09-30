@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Walker",
+    "age": 96,
+    "address": {
+        "street": "Henderson Views",
+        "city": "Billyfort",
+        "state": "South Dakota",
+        "zip": "99354"
+    },
+    "contact": {
+        "phone": "001-279-637-4591",
+        "servicePhone": "800524938"
+    },
+    "birthday": "1929-20-10",
+    "ip": "105.8.13.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Entire reach early husband natural discuss.\nQuite necessary maybe write central history data never. Eat moment yeah. Assume share second none shoulder suddenly.",
+        "bio": "Hard senior another do six others. For seek answer senior view leg every.\nUp about end behavior social. Thousand similar rest type church new require."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}

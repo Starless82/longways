@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Holt",
+    "age": 115,
+    "address": {
+        "street": "Walker Port",
+        "city": "South Rebecca",
+        "state": "Maine",
+        "zip": "73929"
+    },
+    "contact": {
+        "phone": "+1-473-531-9242",
+        "servicePhone": "800660608"
+    },
+    "birthday": "1910-26-10",
+    "ip": "85.248.134.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Better president performance it media. Campaign prevent next simply design. Each behind coach question interesting arrive. Deal writer investment attorney order.",
+        "bio": "Hope professor foreign cell push. Blood yeah exactly early.\nMain dinner store give who personal network. Could simply commercial field important buy training cell."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
